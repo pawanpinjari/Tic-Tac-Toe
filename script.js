@@ -1,6 +1,6 @@
 var xcount=0;
     var ocount=0;
-    ck=0;
+    var ck=0;
     var divX=document.getElementById("X");
     var divO=document.getElementById("O");
     var table = document.getElementById("table");
