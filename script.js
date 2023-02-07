@@ -71,6 +71,6 @@ var xcount=0;
       document.getElementById("b9").innerHTML = "";
       
       Start();
-      
+      ck=0;
       div1.innerHTML="";
     }
